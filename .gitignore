@@ -1,0 +1,10 @@
+.env
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+tests/bookHotelPageDef.ts
+tests/loginPageDef.ts
+tests/reinvent2024.spec.ts
